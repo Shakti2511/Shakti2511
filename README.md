@@ -1,5 +1,7 @@
 ## 💫 About Me
 
+I’m a **Network Administrator** with hands-on experience in managing enterprise IT infrastructure, securing networks, and ensuring high availability. I also have professional experience in **DevOps**, working with automation, servers, and deployment pipelines to support modern application environments.
+
 🔭 **I’m currently working on**  
 Network infrastructure management, VPNs, firewalls, servers, and system optimization.
 
@@ -17,6 +19,7 @@ IT administration, network security, VPNs, firewalls, Linux, Windows Server, vir
 
 ⚡ **Fun fact**  
 I enjoy turning complex network and server problems into simple, reliable solutions 🚀
+
 
 
 ## 🌐 Socials:
