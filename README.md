@@ -1,5 +1,22 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Network infrastructure management, VPNs, firewalls, servers, and system optimization.<br><br>👯 I’m looking to collaborate on<br>Networking, system automation, cloud, DevOps tools, and infrastructure projects.<br><br>🤝 I’m looking for help with<br>Advanced cloud architecture, Kubernetes, and large-scale DevOps deployments.<br><br>🌱 I’m currently learning<br>Cloud platforms (AWS/Azure), CI/CD pipelines, Docker, Kubernetes, and advanced security.<br><br>💬 Ask me about<br>IT administration, network security, VPNs, firewalls, Linux, Windows Server, virtualization, and DevOps.<br><br>⚡ Fun fact<br>I enjoy turning complex network and server problems into simple, reliable solutions 🚀
+## 💫 About Me
+
+🔭 **I’m currently working on**  
+Network infrastructure management, VPNs, firewalls, servers, and system optimization.
+
+👯 **I’m looking to collaborate on**  
+Networking, system automation, cloud, DevOps tools, and infrastructure projects.
+
+🤝 **I’m looking for help with**  
+Advanced cloud architecture, Kubernetes, and large-scale DevOps deployments.
+
+🌱 **I’m currently learning**  
+Cloud platforms (AWS/Azure), CI/CD pipelines, Docker, Kubernetes, and advanced security.
+
+💬 **Ask me about**  
+IT administration, network security, VPNs, firewalls, Linux, Windows Server, virtualization, and DevOps.
+
+⚡ **Fun fact**  
+I enjoy turning complex network and server problems into simple, reliable solutions 🚀
 
 
 ## 🌐 Socials:
